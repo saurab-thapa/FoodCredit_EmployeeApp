@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Employee_Application</string>
+    <string name="app_name">Employee Application</string>
+    <string name="scan_machine_qr">Scan Machine QR</string>
+    <string name="position_qr">Position the QR code within the frame</string>
+    <string name="point_camera">Point your camera at the machine QR code</string>
 </resources>
+
+
